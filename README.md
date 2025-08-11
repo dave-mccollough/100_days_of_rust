@@ -11,3 +11,4 @@
 
 - [Day 1 - Hello World](day_01)
 - [Day 2 - Temperature Converter](day_02)
+- [Day 3 - Simple Calculator](day_03)
